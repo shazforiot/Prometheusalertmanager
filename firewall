@@ -1,0 +1,2 @@
+sudo firewall-cmd --permanent --zone=public --add-port=9093/tcp
+sudo firewall-cmd --reload
